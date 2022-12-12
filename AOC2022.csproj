@@ -19,6 +19,9 @@
     <None Remove="AOC2022\Day09\input.txt" />
     <None Remove="AOC2022\Day09\test.txt" />
     <None Remove="AOC2022\Day09\test2.txt" />
+    <None Remove="AOC2022\Day10\.txt" />
+    <None Remove="AOC2022\Day10\input.txt" />
+    <None Remove="AOC2022\Day10\test.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -63,6 +66,13 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="AOC2022\Day09\test2.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AOC2022\Day10\input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AOC2022\Day10\.txt" />
+    <Content Include="AOC2022\Day10\test.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
